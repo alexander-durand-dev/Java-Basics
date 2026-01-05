@@ -14,7 +14,7 @@ public class AssignmentOperatorsExample {
         number5 %= 5; //number5 = number5 % 5;
         
         System.out.println("\n---Results---");
-        System.out.println("Initial value: 20");
+        System.out.println("Initial value: 20\n");
         System.out.println("After += 5: " + number1);
         System.out.println("After -= 5: " + number2);
         System.out.println("After *= 5: " + number3);
